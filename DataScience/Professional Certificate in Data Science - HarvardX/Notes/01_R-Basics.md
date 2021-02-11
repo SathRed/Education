@@ -8,6 +8,22 @@ RStudio
 * Run a line of R Code: Ctrl + Enter   
 * Run an R Script: Ctrl + Shift + Enter  
 
+Key Terms
+* Accessor ($)
+* Data Frame
+* Vector
+
+Variable Naming Conventions in R
+* lowercase
+* underscores separate words
+
+Data Types in R
+* Numeric
+* Character
+* Logical
+* Data Frame
+* Factor
+
 R  
 * <- #assignment operator  
 * ls() #print objects stored in workspace  
