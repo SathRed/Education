@@ -25,24 +25,4 @@ R
 * length(<vector>) #number of entries in vector  
 * class(<object>) #type of an object  
 * levels(<factor>) #get names of the factor levels  
-* table(<vector>) #returns frequency of each unique element in the vector  
- 
-
-Key Terms  
-* Accessor ($)  
-* Data Frame  
-* Vector  
-
-Variable Naming Conventions in R  
-* lowercase  
-* underscores to separate words  
-
-Data Types in R  
-* Numeric: a numeric value  
-* Character: a character string   
-* Logical: boolean (True or False)  
-* Data.frame: a table of data  
-* Factor: stores categorical data  
-
-Resources: Quizzes on DataCamp  
-
+* table(<vector>) #returns frequency of each unique element in the vector
