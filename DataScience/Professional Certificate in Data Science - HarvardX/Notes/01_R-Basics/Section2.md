@@ -4,7 +4,7 @@
 **SECTION 2**  
 R
 * c(dt1, dt2, dt3...) #create/concatenate vector (can only contain data of one type)
-* names(data_vector) <- create a named vector 
+* names(data_vector) <- #create a named vector 
 * seq(start, end, skip) #creates a sequence
 * as.character() #coerces values into characters
 * as.numeric() #coerces values into numerics
